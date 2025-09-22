@@ -1,10 +1,10 @@
-class  MiComponenteJT extends HTMLElement {
+class MiComponenteJT extends HTMLElement {
     constructor() {
         super();
-        this.innerHTML =`
+        this.innerHTML = `
             <p>Star Trek</p>
         `;
     }
 }
 
-customElements.define("MiComponenteJT", MiComponenteJT);
+customElements.define("mi-componente-jt", MiComponenteJT);
