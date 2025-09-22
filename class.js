@@ -7,4 +7,4 @@ class  MiComponenteJT extends HTMLElement {
     }
 }
 
-customElements.define('mi-componente-Joaquin-Tito', MiComponenteJT);
+customElements.define('MiComponenteJT', MiComponenteJT);
